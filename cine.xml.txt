@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cine> CINEMA CRISTO REY 
+	<Sala>
+		<Sala1>Sala principal
+			<peli> Fuga de cerebros </peli> 
+				<hora> :00 </hora>
+			<peli> JOCKER </peli> 
+				<hora> 18:00 </hora>
+			<peli> El castillo encantado </peli>
+				<hora> 20:00 </hora>
+		</Sala1>
+		<Sala2>Sala grande
+			<peli> Resacón en las Vegas </peli> 
+				<hora> 18:00 </hora>
+			<peli> Harry Potter: La piedra filosofal contraataca. </peli> 
+				<hora> 20:00 </hora>
+			<peli> Heroes </peli> 
+				<hora> 22:30 </hora>
+			<peli> Little Man </peli> 
+				<hora> 00:45 </hora>
+		</Sala2>	
+		<Sala3>Sala pequeña
+			<peli> Spiderman: El regreso de la araña negra. </peli> 
+				<hora> 16:00 </hora>
+			<peli> Snitch </peli> 
+				<hora> 18:30 </hora>
+			<corto> Crazy Trip </corto> 
+				<hora> 22:45 </hora>
+			<peli> Heroes </peli> 
+				<hora> 23:30 </hora>
+		</Sala3>
+		<Sala4>Sala infantil
+			<peli> Las supernenas y Mojo Jojo </peli> 
+				<hora> 16:00 </hora>
+			<peli> Dora la exploradora. </peli> 
+				<hora> 18:00 </hora>
+			<peli> Los Simpsons: La pelicula </peli> 
+				<hora> 21:00 </hora>
+			<peli> Tom y Jerry </peli> 
+				<hora> 22:30 </hora>
+		</Sala4>
+	</Sala>		
+</cine>

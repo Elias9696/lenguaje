@@ -1,0 +1,78 @@
+<?xml version=“1.0”?>
+<prevTiempo>
+	<localidad>Granada</localidad>
+		<hora>
+			<am>8:00
+			<tempGrado> 21°C 
+				<sensacionTermica> Soleado </sensacionTermica>
+			</tempGrado>
+			<humedad>10%</humedad>
+			<viento> 15km </viento>
+			<precipitacion> 0 <precipitacion>
+			</am>
+
+			<am>9:00
+			<tempGrado> 22°C 
+				<sensacionTermica> Soleado </sensacionTermica>
+			</tempGrado>
+			<humedad>12%</humedad>
+			<viento> 13km </viento>
+			<precipitacion> 0 <precipitacion>
+			</am>
+
+			<am>10:00
+			<tempGrado> 24°C 
+				<sensacionTermica> Soleado </sensacionTermica>
+			</tempGrado>
+			<humedad>17%</humedad>
+			<viento> 10km </viento>
+			<precipitacion> 1 <precipitacion>
+			</am>
+
+			<am>11:00
+			<tempGrado> 26°C  
+				<sensacionTermica> Soleado </sensacionTermica>
+			</tempGrado>
+			<humedad>8%</humedad>
+			<viento> 9km </viento>
+			<precipitacion> 2 <precipitacion>
+			</am>
+
+			<am>12:00
+			<tempGrado> 21°C 
+				<sensacionTermica> Soleado </sensacionTermica>
+			</tempGrado>
+			<humedad>6%</humedad>
+			<viento> 8km </viento>
+			<precipitacion> 1 <precipitacion>
+			</am>
+
+			<am>13:00
+			<tempGrado> 23°C 
+				<sensacionTermica> Soleado </sensacionTermica>
+			</tempGrado>
+			<humedad>7%</humedad>
+			<viento> 6km </viento>
+			<precipitacion> 2<precipitacion>
+			</am>
+
+			<am>14:00
+			<tempGrado> 22°C 
+				<sensacionTermica> Soleado </sensacionTermica>
+			</tempGrado>
+			<humedad>5%</humedad>
+			<viento> 13km </viento>
+			<precipitacion> 2 <precipitacion>
+			</am>
+
+			<am>15:00
+			<tempGrado> 24°C 
+				<sensacionTermica> Nublado </sensacionTermica>
+			</tempGrado>
+			<humedad>11%</humedad>
+			<viento> 10km </viento>
+			<precipitacion> 9 <precipitacion>
+			</am>
+
+		</hora>
+	

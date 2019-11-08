@@ -1,0 +1,109 @@
+<!--La temperatura maxima y minima podemos juntarla en la misma linea de codigo, pero asi se ve mas claro-->
+<?xml version=“1.0”?>
+<prevTiempo>
+	<localidad>Granada</localidad>
+		<hora>
+			<horaDato> 8:00 </horaDato>
+			<tempGrado> 21C 
+				<sensacionTermica> 23C </sensacionTermica>
+				<tempMax>24C</tempMax>
+				<tempMin>18C</tempMin>
+			</tempGrado>
+			<humedad>10%</humedad> 
+			<viento> 15kmh </viento>
+				<direccion> Norte </direccion>
+			<precipitacion> 0 <precipitacion>
+			<presion> 952 hPa </presion>
+		</hora>
+		<hora>
+			<horaDato>9:00</horaDato>
+			<tempGrado> 22C 
+				<sensacionTermica>24C</sensacionTermica>
+				<tempMax>23C</tempMax>
+				<tempMin>17C</tempMin>
+			</tempGrado>
+			<humedad>12%</humedad>
+			<viento>13kmh</viento>
+				<direccion> Sur </direccion>
+			<precipitacion> 0 <precipitacion>
+			<presion> 954 hPa </presion>
+		</hora>
+		<hora>
+			<horaDato>10:00</horaDato>
+			<tempGrado> 24C 
+				<sensacionTermica>27C</sensacionTermica>
+				<tempMax>28C</tempMax>
+				<tempMin>12C</tempMin>
+			</tempGrado>
+			<humedad>17%</humedad>
+			<viento>10kmh</viento>
+				<direccion> Oeste </direccion>
+			<precipitacion>1<precipitacion>
+			<presion> 958 hPa </presion>
+		</hora>
+		<hora>
+			<horaDato>11:00</horaDato>
+			<tempGrado> 26°C  
+				<sensacionTermica>29C</sensacionTermica>
+				<tempMax>32C</tempMax>
+				<tempMin>14C</tempMin>
+			</tempGrado>
+			<humedad>8%</humedad>
+			<viento>9kmh</viento>
+				<direccion>Oeste</direccion>
+			<precipitacion> 2 <precipitacion>
+			<presion> 957 hPa </presion>
+		</hora>
+		<hora>
+			<horaDato>12:00</horaDato>
+			<tempGrado> 21C 
+				<sensacionTermica>20C</sensacionTermica>
+				<tempMax> 28C </tempMax>
+				<tempMin> 11C  </tempMin>
+			</tempGrado>
+			<humedad>6%</humedad>
+			<viento> 8kmh </viento>
+				<direccion> Noreste </direccion>
+			<precipitacion> 1 <precipitacion>
+			<presion> 951 hPa </presion>
+		</hora>
+		<hora>
+			<horaDato>13:00</horaDato>
+			<tempGrado> 23C 
+				<sensacionTermica>27C</sensacionTermica>
+				<tempMax>29C</tempMax>
+				<tempMin>9C</tempMin>
+			</tempGrado>
+			<humedad>7%</humedad>
+			<viento>6kmh</viento>
+				<direccion>Sur</direccion>
+			<precipitacion>2<precipitacion>
+			<presion>952 hPa</presion>
+		</hora>
+		<hora>
+			<horaDato>14:00</horaDato>
+			<tempGrado> 22C 
+				<sensacionTermica>25C</sensacionTermica>
+				<tempMax>26C</tempMax>
+				<tempMin>13C</tempMin>
+			</tempGrado>
+			<humedad>5%</humedad>
+			<viento>13kmh</viento>
+				<direccion>Sureste</direccion>
+			<precipitacion>2<precipitacion>
+			<presion>956 hPa</presion>
+		</hora>
+		<hora>
+			<horaDato>15:00</horaDato>
+			<tempGrado> 24C 
+				<sensacionTermica>29C</sensacionTermica>
+				<tempMax>28C</tempMax>
+				<tempMin>8C</tempMin>
+			</tempGrado>
+			<humedad>11%</humedad>
+			<viento>10kmh</viento>
+				<direccion>Norte</direccion>
+			<precipitacion>9<precipitacion>
+			<presion>959 hPa</presion>
+		</hora>
+</prevTiempo>
